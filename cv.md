@@ -4,8 +4,10 @@ title: Curriculum Vitae
 ---
 
 **Tyler McCraney, PhD**  
-_Lecturer_, Biological Sciences, SCIB 228  
-_Research Associate_, Fisheries Biology, WFB 214  
+_Lecturer_  
+Biological Sciences, SCIB 228  
+_Research Associate_  
+Fisheries Biology, WFB 214  
 Cal Poly Humboldt  
 Arcata, CA 95521  
 [Website](https://tylermccraney.github.io)  
@@ -22,8 +24,8 @@ Arcata, CA 95521
     Research: _ddPCR Assays to Detect Chinook Salmon Run-Timing Ecotypes from eDNA_  
 
     Principal Investigator: Dr Susan Marshall, Forestry & Wildland Resources  
-    Research: _qPCR Assays to Detect Oomycete Forest Pathogens in Soil_  
-    Research: _Comparative Genomics of Phytophthora_  
+    Research: _qPCR Assays to Detect 5 Phytophthoran Forest Pathogens in Soil_  
+    Research: _Comparative Genomics of Phytophthoran Forest & Crop Pathogens_  
 
 **PhD** _in_ Biology (2019-12) UCLA  
 
