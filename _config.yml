@@ -21,7 +21,7 @@ author: Tyler McCraney
 
 navbar-links:
   About: "aboutme"
-    CV: "cv"
+  CV: "cv"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
