@@ -4,9 +4,14 @@ title: Curriculum Vitae
 ---
 
 **Tyler McCraney, PhD**  
+
+Lecturer
+Department of Biological Sciences
+
 Research Associate  
 Department of Fisheries Biology  
 Department of Forestry & Wildland Resources  
+
 Cal Poly Humboldt  
 Arcata, CA 95521  
 [Website](https://tylermccraney.github.io)  
@@ -57,9 +62,9 @@ Arcata, CA 95521
 
 #### PEER-REVIEWED PUBLICATIONS
 
-de Brito V, Betancur-R R, Burns MD, Buser TJ, Conway KW, Fontenelle JP, Kolmann MA, **McCraney WT**, Thacker CE, Bloom DD (2022) Patterns of phenotypic evolution associated with marine/freshwater transitions in fishes. _Integrative and Comparative Biology_, icac085.  
+Ghezelayagh A, Harrington RC, Burress ED, Campbell MA, Buckner JC, Chakrabarty P, Glass JR, **McCraney WT**, Unmack PJ, Thacker CE, Alfaro ME, Friedman ST, Ludt WB, Cowman PF, Friedman M, Price SA, Dornburg A, Faircloth BC, Wainwright PC, Near TJ (2021) Prolonged morphological expansion of spiny-rayed fishes following the end-Cretaceous. _Nature Ecology and Evolution_, https://doi.org/10.1038/s41559-022-01801-3.  
 
-Ghezelayagh A, Harrington RC, Burress ED, Campbell MA, Buckner JC, Chakrabarty P, Glass JR, **McCraney WT**, Unmack PJ, Thacker CE, Alfaro ME, Friedman ST, Ludt WB, Cowman PF, Friedman M, Price SA, Dornburg A, Faircloth BC, Wainwright PC, Near TJ (2021) Prolonged morphological expansion of spiny-rayed fishes following the end-Cretaceous. _Nature Ecology and Evolution_, accepted for publication 2022-05-20.  
+de Brito V, Betancur-R R, Burns MD, Buser TJ, Conway KW, Fontenelle JP, Kolmann MA, **McCraney WT**, Thacker CE, Bloom DD (2022) Patterns of phenotypic evolution associated with marine/freshwater transitions in fishes. _Integrative and Comparative Biology_, icac085.  
 
 Thacker CE, Shelley J, **McCraney WT**, Adams M, Hammer MP, Unmack P (2022) Phylogeny, diversification, and biogeography of a hemiclonal hybrid system of native Australian freshwater fishes (Gobiiformes: Gobioidei: Eleotridae: _Hypseleotris_). _BMC Ecology and Evolution_, 22, 1-23.  
 
@@ -153,8 +158,6 @@ LS 15: _Life - Concepts & Issues_, UCLA
 
 #### PRESENTATIONS
 
-American Fisheries Society (2022) Spokane, WA  
-
 Eco-Evo Pub (2020) Los Angeles, CA  
 
 American Society of Ichthyologists & Herpetologists (2018) Rochester, NY  
@@ -198,6 +201,8 @@ Ecology & Evolutionary Biology of Gobies in North America (2011)
 ---
 
 #### ACADEMIC & COMMUNITY SERVICE
+
+Peer Reviewer (2022) _Molecular Ecology Resources_  
 
 Peer Reviewer (2022) _Systematic Biology_  
 
