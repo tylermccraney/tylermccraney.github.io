@@ -20,8 +20,7 @@ author: Tyler McCraney
 ###############################################
 
 navbar-links:
-  About: "aboutme"
-  CV: "cv"
+  About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
@@ -40,7 +39,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: /assets/img/PhyloPic.4ee8b2e1.Gobiodon_Gobiodon-okinawae.png
+#title-img: /assets/img/PhyloPic.4ee8b2e1.Gobiodon_Gobiodon-okinawae.png
 
 
 #####################################
