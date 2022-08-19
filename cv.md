@@ -7,11 +7,10 @@ title: Curriculum Vitae
 
 _Lecturer_  
 Department of Biological Sciences  
-
+SCIB 228  
 _Research Associate_  
-Department of Fisheries Biology  
-Department of Forestry & Wildland Resources  
-
+Department of Fisheries Biology; Department of Forestry & Wildland Resources  
+WFB 214  
 Cal Poly Humboldt  
 Arcata, CA 95521  
 [Website](https://tylermccraney.github.io)  
@@ -25,10 +24,11 @@ Arcata, CA 95521
 
     Advisor: Dr Andrew Kinziger, Fisheries Biology  
     Research: _Ecological Genomics of Endangered Tidewater Goby_  
-    Research: _ddPCR Assays for eDNA Detection of Chinook Salmon Run-Timing Ecotypes_  
+    Research: _ddPCR Assays to Detect Chinook Salmon Run-Timing Ecotypes from eDNA_  
 
     Principal Investigator: Dr Susan Marshall, Forestry & Wildland Resources  
-    Research: _qPCR Assays for eDNA Detection of Fungal Pathogens in Soil_  
+    Research: _qPCR Assays to Detect Oomycete Forest Pathogens in Soil_  
+    Research: _Comparative Genomics of Phytophthora_  
 
 **PhD** _in_ Biology (2019-12) UCLA  
 
