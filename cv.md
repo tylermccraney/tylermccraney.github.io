@@ -4,13 +4,8 @@ title: Curriculum Vitae
 ---
 
 **Tyler McCraney, PhD**  
-
-_Lecturer_  
-Department of Biological Sciences  
-SCIB 228  
-_Research Associate_  
-Department of Fisheries Biology; Department of Forestry & Wildland Resources  
-WFB 214  
+_Lecturer_, Biological Sciences, SCIB 228  
+_Research Associate_, Fisheries Biology, WFB 214  
 Cal Poly Humboldt  
 Arcata, CA 95521  
 [Website](https://tylermccraney.github.io)  
