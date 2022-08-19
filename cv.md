@@ -5,10 +5,10 @@ title: Curriculum Vitae
 
 **Tyler McCraney, PhD**  
 
-Lecturer
-Department of Biological Sciences
+_Lecturer_  
+Department of Biological Sciences  
 
-Research Associate  
+_Research Associate_  
 Department of Fisheries Biology  
 Department of Forestry & Wildland Resources  
 
@@ -257,7 +257,7 @@ Society for Integrative & Comparative Biology
 #### PROFESSIONAL REFERENCES
 
 Dr Michael Alfaro  
-Professor & Vice Chair  
+Professor & Chair  
 Department of Ecology & Evolutionary Biology  
 University of California, Los Angeles  
 Los Angeles, CA 90095  
