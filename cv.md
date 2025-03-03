@@ -35,7 +35,7 @@ Red Bluff, CA 96080
     
     Advisor: Paul Barber, PhD, Ecology & Evolutionary Biology (2014-12)  
 
-**Genetics Technician** (2012-09) NOAA Auke Bay Lab, Juneau, AK  
+**Genetics Tech** (2012-09) NOAA Auke Bay Lab, Juneau, AK  
 
     Supervisor: Jeffrey Guyon, PhD, Genetics Program  
     _This was a term-limited Federal job_  
@@ -51,7 +51,7 @@ Red Bluff, CA 96080
     Assignment: Ocean Salmon Project  
     _This was a seasonal State job (CDFW)_  
 
-**BS** Fisheries Biology: Aquaculture/Marine (2006-02) Cal Poly Humboldt  
+**BS** Fisheries Biology: Aquaculture (2006-02) Cal Poly Humboldt  
 
     Advisor: David Hankin, PhD, Fisheries Biology  
     Research: _Survival & Growth of Cutthroat, Rainbow, & Hybrid Trout_  
