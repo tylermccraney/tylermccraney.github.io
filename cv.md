@@ -13,50 +13,50 @@ Red Bluff, CA 96080
 
 #### EDUCATION & EXPERIENCE  
 
-**Fish Biologist** (2025-2024) United States Fish & Wildlife Service, Red Bluff, CA  
+**Fish Biologist** (2025-2024) US Fish & Wildlife Service, Red Bluff, CA  
 
     Supervisor: Bill Poytress, Sacramento R. Juvenile Fish Monitoring  
     Research: _Predicitve Analytics of Rotary Screw Trap Efficiency_  
     Research: _Statistical Pipeline for Population Monitoring_  
     Research: _Bootstrap Confidence Intervals for Stock Assessment_  
 
-**Postdoc** _in_ Genomics (2024-2021) Cal Poly Humboldt  
+**Postdoc** Genomics (2024-2021) Cal Poly Humboldt  
 
     Advisor: Andrew Kinziger, PhD, Fisheries Biology  
     Research: _Adaptation Genomics of Endangered Tidewater Goby_  
     Research: _eDNA ddPCR Assays for Chinook Salmon Run-Timing Ecotypes_  
 
     Advisor: Susan Marshall, PhD, Forestry & Wildland Resources  
-    Research: _De novo Genome Assembly of Phytophthoran Forest & Crop Pathogens_  
-    Research: _qPCR Assays to Detect 5 Phytophthoran Forest Pathogens in Soil_  
+    Research: _De novo Genome Assembly of Phytophthora Plant Pathogens_  
+    Research: _eDNA qPCR Assays for Phytophthora Palnt Pathogens in Soil_  
 
-**PhD** _in_ Biology (2019-12) UCLA  
+**PhD** Biology (2019-12) UCLA  
 
-    Advisor: Michael Alfaro, PhD, Ecology & Evolutionary Biology (2019-2015)  
+    Advisor: Michael Alfaro, PhD, Ecology & Evolutionary Biology (2019-15)  
     Dissertation: _Phylogeny & Divergence Times of Gobiarian Fishes_  
     
-    Advisor: Paul Barber, PhD, Ecology & Evolutionary Biology (2014-2012)  
+    Advisor: Paul Barber, PhD, Ecology & Evolutionary Biology (2014-12)  
 
-**Genetics Technician** (2012-09) NOAA Auke Bay Laboratories, Juneau, AK  
+**Genetics Technician** (2012-09) NOAA Auke Bay Lab, Juneau, AK  
 
     Supervisor: Jeffrey Guyon, PhD, Genetics Program  
     _This was a term-limited Federal job_  
 
-**MS** _in_ Natural Resources: Fisheries (2009-07) Cal Poly Humboldt  
+**MS** Natural Resources: Fisheries (2009-07) Cal Poly Humboldt  
 
     Advisor: Andrew Kinziger, PhD, Fisheries Biology  
     Thesis: _Conservation Genetics of Endangered Tidewater Goby_  
 
-**Fish Technician** (2006-05) Pac. States Marine Fisheries Comm., Portland, OR  
+**Fish Technician** (2006-05) Pac. States Marine Fish. Comm., Portland, OR  
 
     Assignment: California Recreational Fisheries Survey  
     Assignment: Ocean Salmon Project  
     _This was a seasonal State job (CDFW)_  
 
-**BS** _in_ Fisheries Biology (Aquaculture/Marine) (2006-02) Cal Poly Humboldt  
+**BS** Fisheries Biology: Aquaculture/Marine (2006-02) Cal Poly Humboldt  
 
     Advisor: David Hankin, PhD, Fisheries Biology  
-    Research: _Survival & Growth of Cutthroat Trout, Rainbow Trout & Hybrids_  
+    Research: _Survival & Growth of Cutthroat, Rainbow, & Hybrid Trout_  
 
 ---
 
