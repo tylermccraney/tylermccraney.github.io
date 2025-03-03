@@ -6,8 +6,6 @@ title: Curriculum Vitae
 **Tyler McCraney, PhD**  
 _Genomics Data Scientist_  
 Red Bluff, CA 96080  
-[Website](https://tylermccraney.github.io)  
-[Github](https://github.com/tylermccraney)  
 
 ---
 
