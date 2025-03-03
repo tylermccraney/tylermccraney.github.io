@@ -11,14 +11,14 @@ Red Bluff, CA 96080
 
 #### EDUCATION & EXPERIENCE  
 
-**Fish Biologist** (2025-2024) US Fish & Wildlife Service, Red Bluff, CA  
+**Fish Biologist** (2025-24) US Fish & Wildlife Service, Red Bluff, CA  
 
     Supervisor: Bill Poytress, Sacramento R. Juvenile Fish Monitoring  
     Research: _Predicitve Analytics of Rotary Screw Trap Efficiency_  
     Research: _Statistical Pipeline for Population Monitoring_  
     Research: _Bootstrap Confidence Intervals for Stock Assessment_  
 
-**Postdoc** Genomics (2024-2021) Cal Poly Humboldt  
+**Postdoc** Genomics (2024-21) Cal Poly Humboldt  
 
     Advisor: Andrew Kinziger, PhD, Fisheries Biology  
     Research: _Adaptation Genomics of Endangered Tidewater Goby_  
@@ -30,11 +30,9 @@ Red Bluff, CA 96080
 
 **PhD** Biology (2019-12) UCLA  
 
-    Advisor: Michael Alfaro, PhD, Ecology & Evolutionary Biol. (2019-15)  
+    Advisor: Michael Alfaro, PhD, Ecology & Evolutionary Biology  
     Dissertation: _Phylogeny & Divergence Times of Gobiarian Fishes_  
     
-    Advisor: Paul Barber, PhD, Ecology & Evolutionary Biology (2014-12)  
-
 **Genetics Tech** (2012-09) NOAA Auke Bay Lab, Juneau, AK  
 
     Supervisor: Jeffrey Guyon, PhD, Genetics Program  
