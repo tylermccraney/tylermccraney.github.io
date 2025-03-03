@@ -124,43 +124,43 @@ Graduate Award (2008) Marin Rod & Gun Club
 
 **Lecturer**  
 
-BIOL 340: _Genetics_, Cal Poly Humboldt  
+_Genetics_, Cal Poly Humboldt  
 
-CLUSTER 70CW: _Evolutionary Applications for Fisheries & Wildlife Conservation_, UCLA  
+_Evolutionary Applications for Fisheries & Wildlife Conservation_, UCLA  
 
-EE BIOL 100: _Introduction to Ecology and Behavior_, UCLA  
+_Introduction to Ecology and Behavior_, UCLA  
 
-EE BIOL 120: _Evolution_, UCLA  
+_Evolution_, UCLA  
 
-EE BIOL 185: _Evolutionary Medicine_, UCLA  
+_Evolutionary Medicine_, UCLA  
 
-FISH 474: _Conservation Genetics of Fish & Wildlife_, Cal Poly Humboldt  
+_Conservation Genetics of Fish & Wildlife_, Cal Poly Humboldt  
 
-**Teaching Assistant/Associate/Fellow**  
+**Teaching Assistant**  
 
-CLUSTER 70A/B: _Evolution of Cosmos & Life_, UCLA  
+_Evolution of Cosmos & Life_, UCLA  
 
-CLUSTER 70CW: _Evolutionary Applications for Fisheries & Wildlife Conservation_, UCLA  
+_Evolutionary Applications for Fisheries & Wildlife Conservation_, UCLA  
 
-EE BIOL 109/L: _Introduction to Marine Science/Laboratory_, UCLA  
+_Introduction to Marine Science_, UCLA  
 
-EE BIOL 120: _Evolution_, UCLA  
+_Evolution_, UCLA  
 
-EE BIOL C172: _Advanced Statistics in Ecology & Evolutionary Biology_, UCLA  
+_Advanced Statistics in Ecology & Evolutionary Biology_, UCLA  
 
-EE BIOL C174: _Comparative Biology & Macroevolution_, UCLA  
+_Comparative Biology & Macroevolution_, UCLA  
 
-IBRC: _Molecular Ecology & Evolution_, Indonesian Biodiversity Research Center  
+_Molecular Ecology & Evolution_, Indonesian Biodiversity Research Center  
 
-FISH 310: _Ichthyology_, Cal Poly Humboldt  
+_Ichthyology_, Cal Poly Humboldt  
 
-FISH 380: _Techniques in Fisheries Biology_, Cal Poly Humboldt  
+_Techniques in Fisheries Biology_, Cal Poly Humboldt  
 
-FISH 474: _Conservation Genetics of Fish & Wildlife_, Cal Poly Humboldt  
+_Conservation Genetics of Fish & Wildlife_, Cal Poly Humboldt  
 
-LS 1: _Evolution, Ecology, & Biodiversity_, UCLA  
+_Evolution, Ecology, & Biodiversity_, UCLA  
 
-LS 15: _Life - Concepts & Issues_, UCLA  
+_Life - Concepts & Issues_, UCLA  
 
 ---
 
