@@ -90,7 +90,7 @@ Kinziger AP, Hellmair M, **McCraney WT**, Jacobs DK, Goldsmith G (2015) Temporal
 
 **McCraney WT**, Kinziger AP (2024) Metapopulation genomics of endangered tidewater goby reveals evidence of local adaptation. _Report to the United States Fish and Wildlife Service_, Arcata, California, 61 pages.  
 
-McCraney WT, Kinziger AP (2023) Development of droplet digital PCR assays for detection of Sacramento River Chinook Salmon run-timing ecotypes in environmental DNA from water samples. _Report to the Metropolitan Water District of Southern California_, 26 pages.  
+**McCraney WT**, Kinziger AP (2023) Development of droplet digital PCR assays for detection of Sacramento River Chinook Salmon run-timing ecotypes in environmental DNA from water samples. _Report to the Metropolitan Water District of Southern California_, 26 pages.  
 
 Kondzela CM, **McCraney WT**, Nguyen HT, Guyon JR (2012) Genetic stock composition analysis of chum salmon bycatch samples from the 2010 Bering Sea groundfish fisheries. _NOAA Technical Memorandum, National Marine Fisheries Service - Alaska Fisheries Science Center_, 233.
 
