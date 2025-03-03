@@ -4,44 +4,47 @@ title: Curriculum Vitae
 ---
 
 **Tyler McCraney, PhD**  
-_Lecturer_  
-Biological Sciences, SCIB 228  
-_Research Associate_  
-Fisheries Biology, WFB 214  
-Cal Poly Humboldt  
-Arcata, CA 95521  
+_Genomics Data Scientist_  
+Red Bluff, CA 96080  
 [Website](https://tylermccraney.github.io)  
 [Github](https://github.com/tylermccraney)  
 
 ---
 
-#### EDUCATION & TECHNICAL WORK  
+#### EDUCATION & EXPERIENCE  
 
-**Postdoc** _in_ Molecular Ecology & Evolution (2021-) Cal Poly Humboldt  
+**Fish Biologist** (2025-2024) United States Fish & Wildlife Service, Red Bluff, CA  
 
-    Advisor: Dr Andrew Kinziger, Fisheries Biology  
-    Research: _Ecological Genomics of Endangered Tidewater Goby_  
+    Supervisor: Bill Poytress, Mainstem Sacramento River Juvenile Fish Monitoring Program  
+    Research: _Predicitve Analytics of Salmon Rotary Screw Trap Efficiency_  
+    Research: _Statistical Pipeline for Reproducible Salmon Population Monitoring_  
+    Research: _Bootstrap Confidence Interval Methods for Salmon Stock Assessment_  
+
+**Postdoc** _in_ Genomics (2024-2021) Cal Poly Humboldt  
+
+    Advisor: Andrew Kinziger, PhD, Department of Fisheries Biology  
+    Research: _Adaptation Genomics of Endangered Tidewater Goby_  
     Research: _ddPCR Assays to Detect Chinook Salmon Run-Timing Ecotypes from eDNA_  
 
-    Principal Investigator: Dr Susan Marshall, Forestry & Wildland Resources  
+    Advisor: Susan Marshall, PhD, Department of Forestry & Wildland Resources  
+    Research: _De novo Genome Assembly of Phytophthoran Forest & Crop Pathogens_  
     Research: _qPCR Assays to Detect 5 Phytophthoran Forest Pathogens in Soil_  
-    Research: _Comparative Genomics of Phytophthoran Forest & Crop Pathogens_  
 
 **PhD** _in_ Biology (2019-12) UCLA  
 
-    Advisor: Dr Michael Alfaro (2019-2015)  
+    Advisor: Michael Alfaro, PhD, Department of Ecology & Evolutionary Biology (2019-2015)  
     Dissertation: _Phylogeny & Divergence Times of Gobiarian Fishes_  
     
-    Advisor: Dr Paul Barber (2014-2012)  
+    Advisor: Paul Barber, PhD, Department of Ecology & Evolutionary Biology (2014-2012)  
 
 **Genetics Technician** (2012-09) NOAA Auke Bay Laboratories, Juneau, AK  
 
-    Supervisor: Dr Jeffrey Guyon  
+    Supervisor: Jeffrey Guyon, PhD, Genetics Program  
     _This was a term-limited Federal job_  
 
 **MS** _in_ Natural Resources: Fisheries (2009-07) Cal Poly Humboldt  
 
-    Advisor: Dr Andrew Kinziger  
+    Advisor: Andrew Kinziger, PhD, Department of Fisheries Biology  
     Thesis: _Conservation Genetics of Endangered Tidewater Goby in Northern California_  
 
 **Fish Technician** (2006-05) Pacific States Marine Fisheries Commission, Portland, OR  
@@ -52,12 +55,18 @@ Arcata, CA 95521
 
 **BS** _in_ Fisheries Biology: Aquaculture & Marine Biology (2006-02) Cal Poly Humboldt  
 
-    Advisor: Dr David Hankin  
+    Advisor: David Hankin, PhD, Department of Fisheries Biology  
     Research: _Survival & Growth of Cutthroat Trout, Rainbow Trout & Reciprocal Hybrids_  
 
 ---
 
-#### PEER-REVIEWED PUBLICATIONS
+#### PUBLICATIONS
+
+**McCraney WT**, Thacker CE, Faircloth BC, Harrington RC, Near TJ, Alfaro ME (2025) Explosion of goby fish diversity at the Eocene-Oligocene transition. Submitted to _Molecular Phylogenetics and Evolution_, Available at SSRN: http://dx.doi.org/10.2139/ssrn.5077291.  
+
+Jacobs DK, Kinziger AP, Abrecht M, **McCraney WT**, Hà BA, Spies BT, Heath-Heckman E, Marimuhtu MPA, Oanh N, Fairbairn CW, Seligmann WE, Escalona M, Miller C, Shaffer HB (2024) Reference genome for the endangered, genetically subdivided, northern tidewater goby, _Eucyclogobius newberryi_. _The Journal of Heredity_, XX, 1-9.  
+
+Thacker CE, **McCraney WT**, Harrington RC, Near TJ, Shelley JJ, Adams M, Hammer MP, Unmack PJ (2023) Diversification of the sleepers (Gobiiformes: Gobioidei: Eleotridae) and evolution of the root gobioid families. _Molecular Phylogenetics and Evolution_, 186, 107841.  
 
 Ghezelayagh A, Harrington RC, Burress ED, Campbell MA, Buckner JC, Chakrabarty P, Glass JR, **McCraney WT**, Unmack PJ, Thacker CE, Alfaro ME, Friedman ST, Ludt WB, Cowman PF, Friedman M, Price SA, Dornburg A, Faircloth BC, Wainwright PC, Near TJ (2021) Prolonged morphological expansion of spiny-rayed fishes following the end-Cretaceous. _Nature Ecology and Evolution_, https://doi.org/10.1038/s41559-022-01801-3.  
 
@@ -79,7 +88,11 @@ Kinziger AP, Hellmair M, **McCraney WT**, Jacobs DK, Goldsmith G (2015) Temporal
 
 ---
 
-#### TECHNICAL REPORTS
+#### REPORTS
+
+**McCraney WT**, Kinziger AP (2024) Metapopulation genomics of endangered tidewater goby reveals evidence of local adaptation. _Report to the United States Fish and Wildlife Service_, Arcata, California, 61 pages.  
+
+McCraney WT, Kinziger AP (2023) Development of droplet digital PCR assays for detection of Sacramento River Chinook Salmon run-timing ecotypes in environmental DNA from water samples. _Report to the Metropolitan Water District of Southern California_, 26 pages.  
 
 Kondzela CM, **McCraney WT**, Nguyen HT, Guyon JR (2012) Genetic stock composition analysis of chum salmon bycatch samples from the 2010 Bering Sea groundfish fisheries. _NOAA Technical Memorandum, National Marine Fisheries Service - Alaska Fisheries Science Center_, 233.
 
@@ -90,6 +103,8 @@ Gray AK, **McCraney WT**, Marvin CT, Kondzela CM, Nguyen HT, Guyon JR (2011) Gen
 ---
 
 #### AWARDS
+
+STAR Award (2025) United States Fish & Wildlife Service
 
 Raney Award (2018) American Society of Ichthyologists & Herpetologists  
 
@@ -109,7 +124,7 @@ Graduate Award (2008) Marin Rod & Gun Club
 
 ---
 
-#### TEACHING EXPERIENCE
+#### TEACHING
 
 **Lecturer**  
 
@@ -155,6 +170,10 @@ LS 15: _Life - Concepts & Issues_, UCLA
 
 #### PRESENTATIONS
 
+California Ichthyology Congress (2024) Asilomar, CA  
+
+California Forest Pest Council (2022) Davis, CA  
+
 Eco-Evo Pub (2020) Los Angeles, CA  
 
 American Society of Ichthyologists & Herpetologists (2018) Rochester, NY  
@@ -199,6 +218,8 @@ Ecology & Evolutionary Biology of Gobies in North America (2011)
 
 #### ACADEMIC & COMMUNITY SERVICE
 
+Peer Reviewer (2024) _Molecular Ecology_  
+
 Peer Reviewer (2022) _Molecular Ecology Resources_  
 
 Peer Reviewer (2022) _Systematic Biology_  
@@ -229,6 +250,10 @@ Peer Reviewer (2010) _Genetica_
 
 #### TRAINING & CERTIFICATIONS
 
+Supervision for New Supervisors (2025) United States Department of Interior  
+
+Transforming STEM Teaching Faculty Learning Program (2024) California State University  
+
 Workshop on Molecular Evolution (2018) Marine Biological Laboratory  
 
 Scientific Diver (2012) American Academy of Underwater Sciences  
@@ -253,25 +278,31 @@ Society for Integrative & Comparative Biology
 
 #### PROFESSIONAL REFERENCES
 
-Dr Michael Alfaro  
+Michael Alfaro, PhD  
 Professor & Chair  
 Department of Ecology & Evolutionary Biology  
 University of California, Los Angeles  
 Los Angeles, CA 90095  
 
-Dr Andrew Kinziger  
+Andrew Kinziger, PhD  
 Professor & Chair  
 Department of Fisheries Biology  
 Cal Poly Humboldt  
 Arcata, CA 95519  
 
-Dr Susan Marshall  
+Susan Marshall, PhD  
 Professor  
 Department of Forestry & Wildland Resources  
 Cal Poly Humboldt  
 Arcata, CA 95519  
 
-Dr Christine Thacker  
+Bill Poytress  
+Program Manager  
+Mainstem Sacramento River Juvenile Fish Monitoring
+United States Fish & Wildlife Service  
+Red Bluff, CA 96080  
+
+Christine Thacker, PhD  
 Curator Emerita  
 Department of Ichthyology  
 Natural History Museum of Los Angeles County  
