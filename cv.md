@@ -25,7 +25,7 @@ Red Bluff, CA 96080
     Research: _eDNA ddPCR Assays for Chinook Salmon Run-Timing_  
 
     Advisor: Susan Marshall, PhD, Forestry & Wildland Resources  
-    Research: _De novo Genome Assembly of Phytophthora Plant Pathogens_  
+    Research: _De novo Genome Assembly of Phytophthora Pathogens_  
     Research: _eDNA qPCR Assays for Phytophthora Plant Pathogens_  
 
 **PhD** Biology (2019-12) UCLA  
