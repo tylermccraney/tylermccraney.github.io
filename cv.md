@@ -24,15 +24,15 @@ Red Bluff, CA 96080
 
     Advisor: Andrew Kinziger, PhD, Fisheries Biology  
     Research: _Adaptation Genomics of Endangered Tidewater Goby_  
-    Research: _eDNA ddPCR Assays for Chinook Salmon Run-Timing Ecotypes_  
+    Research: _eDNA ddPCR Assays for Chinook Salmon Run-Timing_  
 
     Advisor: Susan Marshall, PhD, Forestry & Wildland Resources  
     Research: _De novo Genome Assembly of Phytophthora Plant Pathogens_  
-    Research: _eDNA qPCR Assays for Phytophthora Palnt Pathogens in Soil_  
+    Research: _eDNA qPCR Assays for Phytophthora Plant Pathogens_  
 
 **PhD** Biology (2019-12) UCLA  
 
-    Advisor: Michael Alfaro, PhD, Ecology & Evolutionary Biology (2019-15)  
+    Advisor: Michael Alfaro, PhD, Ecology & Evolutionary Biol. (2019-15)  
     Dissertation: _Phylogeny & Divergence Times of Gobiarian Fishes_  
     
     Advisor: Paul Barber, PhD, Ecology & Evolutionary Biology (2014-12)  
@@ -47,7 +47,7 @@ Red Bluff, CA 96080
     Advisor: Andrew Kinziger, PhD, Fisheries Biology  
     Thesis: _Conservation Genetics of Endangered Tidewater Goby_  
 
-**Fish Technician** (2006-05) Pac. States Marine Fish. Comm., Portland, OR  
+**Fish Tech** (2006-05) Pac. States Marine Fish. Comm., Portland, OR  
 
     Assignment: California Recreational Fisheries Survey  
     Assignment: Ocean Salmon Project  
@@ -252,7 +252,7 @@ Peer Reviewer (2010) _Genetica_
 
 Supervision for New Supervisors (2025) United States Department of Interior  
 
-Transforming STEM Teaching, Faculty Learning Program (2024) Cal. State Uni.  
+Transforming STEM Teaching, Faculty Learning Program (2024) California State University  
 
 Workshop on Molecular Evolution (2018) Marine Biological Laboratory  
 
