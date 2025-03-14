@@ -4,7 +4,7 @@ title: Curriculum Vitae
 ---
 
 **Tyler McCraney, PhD**  
-_Genomics Data Scientist_  
+_Biological Data Scientist_  
 Red Bluff, CA 96080  
 
 ---
@@ -64,9 +64,9 @@ Jacobs DK, Kinziger AP, Abrecht M, **McCraney WT**, Hà BA, Spies BT, Heath-Heck
 
 Thacker CE, **McCraney WT**, Harrington RC, Near TJ, Shelley JJ, Adams M, Hammer MP, Unmack PJ (2023) Diversification of the sleepers (Gobiiformes: Gobioidei: Eleotridae) and evolution of the root gobioid families. _Molecular Phylogenetics and Evolution_, 186, 107841.  
 
-Ghezelayagh A, Harrington RC, Burress ED, Campbell MA, Buckner JC, Chakrabarty P, Glass JR, **McCraney WT**, Unmack PJ, Thacker CE, Alfaro ME, Friedman ST, Ludt WB, Cowman PF, Friedman M, Price SA, Dornburg A, Faircloth BC, Wainwright PC, Near TJ (2021) Prolonged morphological expansion of spiny-rayed fishes following the end-Cretaceous. _Nature Ecology and Evolution_, https://doi.org/10.1038/s41559-022-01801-3.  
-
 de Brito V, Betancur-R R, Burns MD, Buser TJ, Conway KW, Fontenelle JP, Kolmann MA, **McCraney WT**, Thacker CE, Bloom DD (2022) Patterns of phenotypic evolution associated with marine/freshwater transitions in fishes. _Integrative and Comparative Biology_, icac085.  
+
+Ghezelayagh A, Harrington RC, Burress ED, Campbell MA, Buckner JC, Chakrabarty P, Glass JR, **McCraney WT**, Unmack PJ, Thacker CE, Alfaro ME, Friedman ST, Ludt WB, Cowman PF, Friedman M, Price SA, Dornburg A, Faircloth BC, Wainwright PC, Near TJ (2022) Prolonged morphological expansion of spiny-rayed fishes following the end-Cretaceous. _Nature Ecology and Evolution_, https://doi.org/10.1038/s41559-022-01801-3.  
 
 Thacker CE, Shelley J, **McCraney WT**, Adams M, Hammer MP, Unmack P (2022) Phylogeny, diversification, and biogeography of a hemiclonal hybrid system of native Australian freshwater fishes (Gobiiformes: Gobioidei: Eleotridae: _Hypseleotris_). _BMC Ecology and Evolution_, 22, 1-23.  
 
@@ -126,9 +126,9 @@ Graduate Award (2008) Marin Rod & Gun Club
 
 _Genetics_, Cal Poly Humboldt  
 
-_Evolutionary Applications for Fisheries & Wildlife Conservation_, UCLA  
+_Evolutionary Applications for Fish & Wildlife Conservation_, UCLA  
 
-_Introduction to Ecology and Behavior_, UCLA  
+_Ecology and Behavior_, UCLA  
 
 _Evolution_, UCLA  
 
@@ -140,9 +140,9 @@ _Conservation Genetics of Fish & Wildlife_, Cal Poly Humboldt
 
 _Evolution of Cosmos & Life_, UCLA  
 
-_Evolutionary Applications for Fisheries & Wildlife Conservation_, UCLA  
+_Evolutionary Applications for Fish & Wildlife Conservation_, UCLA  
 
-_Introduction to Marine Science_, UCLA  
+_Marine Science_, UCLA  
 
 _Evolution_, UCLA  
 
