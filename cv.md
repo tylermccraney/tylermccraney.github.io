@@ -14,7 +14,7 @@ Red Bluff, CA 96080
 **Fish Biologist** (2025-24) US Fish & Wildlife Service, Red Bluff, CA  
 
     Supervisor: Bill Poytress, Sacramento R. Juvenile Fish Monitoring  
-    Research: _Predicitve Analytics of Rotary Screw Trap Efficiency_  
+    Research: _Predictive Analytics of Rotary Screw Trap Efficiency_  
     Research: _Statistical Pipeline for Population Monitoring_  
     Research: _Bootstrap Confidence Intervals for Stock Assessment_  
 
