@@ -58,7 +58,7 @@ Red Bluff, CA 96080
 
 #### PUBLICATIONS
 
-**McCraney WT**, Thacker CE, Faircloth BC, Harrington RC, Near TJ, Alfaro ME (2025) Explosion of goby fish diversity at the Eocene-Oligocene transition. Submitted to _Molecular Phylogenetics and Evolution_, Available at SSRN: http://dx.doi.org/10.2139/ssrn.5077291.  
+**McCraney WT**, Thacker CE, Faircloth BC, Harrington RC, Near TJ, Alfaro ME (2025) Explosion of goby fish diversity at the Eocene-Oligocene transition. _Molecular Phylogenetics and Evolution_, 207, 108342.  
 
 Jacobs DK, Kinziger AP, Abrecht M, **McCraney WT**, Hà BA, Spies BT, Heath-Heckman E, Marimuhtu MPA, Oanh N, Fairbairn CW, Seligmann WE, Escalona M, Miller C, Shaffer HB (2024) Reference genome for the endangered, genetically subdivided, northern tidewater goby, _Eucyclogobius newberryi_. _The Journal of Heredity_, XX, 1-9.  
 
@@ -283,12 +283,6 @@ Los Angeles, CA 90095
 Andrew Kinziger, PhD  
 Professor & Chair  
 Department of Fisheries Biology  
-Cal Poly Humboldt  
-Arcata, CA 95519  
-
-Susan Marshall, PhD  
-Professor  
-Department of Forestry & Wildland Resources  
 Cal Poly Humboldt  
 Arcata, CA 95519  
 
