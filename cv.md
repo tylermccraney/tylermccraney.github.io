@@ -86,6 +86,8 @@ Kinziger AP, Hellmair M, **McCraney WT**, Jacobs DK, Goldsmith G (2015) Temporal
 
 #### REPORTS
 
+Poytress WR, **McCraney WT** (2025) 2022 & 2023 Red Bluff diversion dam rotary trap juvenile anadromous fish abundance estimates.  _Report to the United States Bureau of Reclamation_, Sacramento, California, 126 pages.
+
 **McCraney WT**, Kinziger AP (2024) Metapopulation genomics of endangered tidewater goby reveals evidence of local adaptation. _Report to the United States Fish and Wildlife Service_, Arcata, California, 61 pages.  
 
 **McCraney WT**, Kinziger AP (2023) Development of droplet digital PCR assays for detection of Sacramento River Chinook Salmon run-timing ecotypes in environmental DNA from water samples. _Report to the Metropolitan Water District of Southern California_, 26 pages.  
