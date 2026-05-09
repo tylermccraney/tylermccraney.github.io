@@ -14,7 +14,7 @@ Seattle, WA 98102
 **Research Scientist** (present-25) University of Washington, Seattle  
 
     Supervisor: Jennifer Gosselin, PhD, Columbia Basin Research (SAFS)  
-    Research: _Predicting Outmigration of Sacramento R. Winter Chinook_  
+    Research: _Predicting Outmigration of Sacramento Winter Chinook_  
 
 **Fish Biologist** (2025-24) US Fish & Wildlife Service, Red Bluff, CA  
 
