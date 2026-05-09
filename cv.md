@@ -5,18 +5,23 @@ title: Curriculum Vitae
 
 **Tyler McCraney, PhD**  
 _Biological Data Scientist_  
-Red Bluff, CA 96080  
+Seattle, WA 98102  
 
 ---
 
 #### EDUCATION & EXPERIENCE  
 
+**Research Scientist** (present-25) University of Washington, Seattle, WA  
+
+    Supervisor: Jennifer Gosselin, PhD, Columbia Basin Research (SAFS)  
+    Research: _Predicting Outmigratory Behavior of Sacramento R. Winter Chinook_  
+
 **Fish Biologist** (2025-24) US Fish & Wildlife Service, Red Bluff, CA  
 
     Supervisor: Bill Poytress, Sacramento R. Juvenile Fish Monitoring  
-    Research: _Predictive Analytics of Rotary Screw Trap Efficiency_  
-    Research: _Statistical Pipeline for Population Monitoring_  
-    Research: _Bootstrap Confidence Intervals for Stock Assessment_  
+    Research: _Modeling Rotary Screw Trap Efficiency_  
+    Research: _Data Pipeline for Juvenile Fish Population Monitoring_  
+    Research: _Bootstrap Confidence Intervals for Juvenile Production_  
 
 **Postdoc** Genomics (2024-21) Cal Poly Humboldt  
 
@@ -24,7 +29,7 @@ Red Bluff, CA 96080
     Research: _Adaptation Genomics of Endangered Tidewater Goby_  
     Research: _eDNA ddPCR Assays for Chinook Salmon Run-Timing_  
 
-    Advisor: Susan Marshall, PhD, Forestry & Wildland Resources  
+    PI: Susan Marshall, PhD, Forestry & Wildland Resources (retired)  
     Research: _De novo Genome Assembly of Phytophthora Pathogens_  
     Research: _eDNA qPCR Assays for Phytophthora Plant Pathogens_  
 
@@ -47,7 +52,7 @@ Red Bluff, CA 96080
 
     Assignment: California Recreational Fisheries Survey  
     Assignment: Ocean Salmon Project  
-    _This was a seasonal State job (CDFW)_  
+    _This was a 2X seasonal State job (CDFW)_  
 
 **BS** Fisheries Biology: Aquaculture (2006-02) Cal Poly Humboldt  
 
@@ -57,6 +62,8 @@ Red Bluff, CA 96080
 ---
 
 #### PUBLICATIONS
+
+Thacker CE, **McCraney WT**, Alfaro ME (2026) Diversification dynamics in the global radiation of gobies. _Systematic Biology_, accepted May 7, 2026.  
 
 **McCraney WT**, Thacker CE, Faircloth BC, Harrington RC, Near TJ, Alfaro ME (2025) Explosion of goby fish diversity at the Eocene-Oligocene transition. _Molecular Phylogenetics and Evolution_, 207, 108342.  
 
@@ -167,6 +174,10 @@ _Life - Concepts & Issues_, UCLA
 ---
 
 #### PRESENTATIONS
+
+Western Division American Fisheries Society (2026) Portland, OR  
+
+Sacramento River Science Partnership Fish Trends (2025) Red Bluff, CA  
 
 California Ichthyology Congress (2024) Asilomar, CA  
 
