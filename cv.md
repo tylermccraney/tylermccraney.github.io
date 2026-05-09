@@ -4,7 +4,7 @@ title: Curriculum Vitae
 ---
 
 **Tyler McCraney, PhD**  
-_Biological Data Scientist_  
+_Research Scientist_  
 Seattle, WA 98102  
 
 ---
