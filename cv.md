@@ -63,6 +63,8 @@ Seattle, WA 98102
 
 #### PUBLICATIONS
 
+**McCraney WT**, Jacobs DK, Kinziger AP (submitted) Evidence for local adaptation in fragmented populations of endangered Tidewater Goby (_Eucyclogobius newberryi_): an estuarine fish with no marine phase. _Molecular Ecology_, May 10, 2026.  
+
 Thacker CE, **McCraney WT**, Alfaro ME (2026) Diversification dynamics in the global radiation of gobies. _Systematic Biology_, accepted May 7, 2026.  
 
 **McCraney WT**, Thacker CE, Faircloth BC, Harrington RC, Near TJ, Alfaro ME (2025) Explosion of goby fish diversity at the Eocene-Oligocene transition. _Molecular Phylogenetics and Evolution_, 207, 108342.  
