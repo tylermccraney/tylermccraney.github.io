@@ -13,12 +13,12 @@ Seattle, WA 98102
 
 **Research Scientist** (2026-25) University of Washington, Seattle  
 
-    PI: Jennifer Gosselin, PhD, Columbia Basin Research (SAFS)  
+    Columbia Basin Research (SAFS)  
     Research: _Predicting Outmigration of Sacramento Winter Chinook_  
 
 **Fish Biologist** (2025-24) US Fish & Wildlife Service, Red Bluff, CA  
 
-    Supervisor: Bill Poytress, Sacramento R. Juvenile Fish Monitoring  
+    Sacramento R. Juvenile Fish Monitoring  
     Research: _Modeling Rotary Screw Trap Efficiency_  
     Research: _Data Pipeline for Juvenile Fish Population Monitoring_  
     Research: _Bootstrap Confidence Intervals for Juvenile Production_  
@@ -40,7 +40,7 @@ Seattle, WA 98102
     
 **Genetics Tech** (2012-09) NOAA Auke Bay Lab, Juneau, AK  
 
-    Supervisor: Jeffrey Guyon, PhD, Genetics Program  
+    Genetics Program  
     _This was a term-limited Federal job_  
 
 **MS** Natural Resources: Fisheries (2009-07) Cal Poly Humboldt  
