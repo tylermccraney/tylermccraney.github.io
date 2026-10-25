@@ -291,29 +291,3 @@ Gilbert Ichthyological Society
 Society for Integrative & Comparative Biology  
 
 ---
-
-#### PROFESSIONAL REFERENCES
-
-Michael Alfaro, PhD  
-Professor & Chair  
-Department of Ecology & Evolutionary Biology  
-University of California, Los Angeles  
-Los Angeles, CA 90095  
-
-Andrew Kinziger, PhD  
-Professor & Chair  
-Department of Fisheries Biology  
-Cal Poly Humboldt  
-Arcata, CA 95519  
-
-Bill Poytress  
-Program Manager  
-Mainstem Sacramento River Juvenile Fish Monitoring
-United States Fish & Wildlife Service  
-Red Bluff, CA 96080  
-
-Christine Thacker, PhD  
-Curator Emerita  
-Department of Ichthyology  
-Natural History Museum of Los Angeles County  
-Los Angeles, CA 90007  
