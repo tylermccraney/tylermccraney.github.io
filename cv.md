@@ -4,12 +4,17 @@ title: Curriculum Vitae
 ---
 
 **Tyler McCraney, PhD**  
-_Biological Data Scientist_  
+_Fisheries Geneticist_  
 Seattle, WA 98102  
 
 ---
 
 #### EDUCATION & EXPERIENCE  
+
+**Fisheries Geneticist** (2026-) Northwest Indian Fisheries Commission, Olympia  
+
+    Conservation Program  
+    _Serving Lummi, Nooksack, Swinomish, Upper Skagit, Sauk-Suiattle, Stillaguamish, Tulalip, Muckleshoot, Puyallup, Nisqually, Squaxin Island, Skokomish, Suquamish, Port Gamble S’Klallam, Jamestown S’Klallam, Lower Elwha Klallam, Makah, Quileute, Quinault, & Hoh_  
 
 **Research Scientist** (2026-25) University of Washington, Seattle  
 
@@ -18,7 +23,7 @@ Seattle, WA 98102
 
 **Fish Biologist** (2025-24) US Fish & Wildlife Service, Red Bluff, CA  
 
-    Sacramento R. Juvenile Fish Monitoring  
+    Sacramento R. Juvenile Fish Monitoring Program  
     Research: _Modeling Rotary Screw Trap Efficiency_  
     Research: _Data Pipeline for Juvenile Fish Population Monitoring_  
     Research: _Bootstrap Confidence Intervals for Juvenile Production_  
